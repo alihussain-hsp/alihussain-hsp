@@ -17,4 +17,4 @@ If you’re looking to **hire a Laravel developer** or a **full-stack freelancer
 
 - **Website**: [alihussain.eu](https://alihussain.eu)  
 - **LinkedIn**: [in/ali-hussain-takhleeqsoft](https://www.linkedin.com/in/ali-hussain-takhleeqsoft)  
-- **Email**: [alihussain@example.com](mailto:alihussain.hsp@gmail.com)  
+- **Email**: [alihussain.hsp@gmail.com](mailto:alihussain.hsp@gmail.com)  
